@@ -100,5 +100,7 @@ class Dog
     dog
   end
   
+  def update
+  end
   
 end
